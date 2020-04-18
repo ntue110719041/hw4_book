@@ -1,0 +1,35 @@
+[
+    {
+        "title":"The Immortalists",
+        "author":"Chloe Benjamin",
+        "content":"If you were told the date of your death, how would it shape your…",
+        "status":"50% completed",
+        "img":"https://raw.githubusercontent.com/ntue110719041/hw4_book/master/img/img_theImmortalists.png",
+        "width":"0.5",
+        "btnwidth":90,
+        "color":"#b1b1b1",
+        "weight":"normal"
+      },
+      {
+        "title":"Grist Mill Road",
+        "author":"Christopher J.",
+        "content":"Twenty-six years ago Hannah had her eye shot out. Now she wants…",
+        "status":"START READ",
+        "img":"https://raw.githubusercontent.com/ntue110719041/hw4_book/master/img/img_gristmillroad.png",
+        "width":"0",
+        "btnwidth":80,
+        "color":"#FF1818",
+        "weight":"bold"
+      },
+      {
+        "title":"Street Art Activity Book",
+        "author":"Mitchell Beazley",
+        "content":"Street art is colorful, vibrant, diverse and exciting.Now, you can create…",
+        "status":"30% completed",
+        "img":"https://raw.githubusercontent.com/ntue110719041/hw4_book/master/img/img_streetartactivitybook.png",
+        "width":"0.3",
+        "btnwidth":90,
+        "color":"#b1b1b1",
+        "weight":"normal"
+      }
+]
